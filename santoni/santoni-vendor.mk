@@ -43,6 +43,27 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Bluetooth_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Bluetooth_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_General_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_General_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Global_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Global_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Handset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Handset_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Hdmi_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Hdmi_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Headset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Headset_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Speaker_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Speaker_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Bluetooth_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Bluetooth_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_General_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_General_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Global_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Global_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Handset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Handset_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Hdmi_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Hdmi_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Headset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Headset_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Speaker_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Speaker_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Bluetooth_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Bluetooth_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_General_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_General_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Global_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Global_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Handset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Handset_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Hdmi_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Hdmi_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Headset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Headset_cal.acdb \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Speaker_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Speaker_cal.acdb \
     vendor/xiaomi/santoni/proprietary/etc/camera/camera_config.xml:system/etc/camera/camera_config.xml \
     vendor/xiaomi/santoni/proprietary/etc/camera/csidtg_camera.xml:system/etc/camera/csidtg_camera.xml \
     vendor/xiaomi/santoni/proprietary/etc/camera/csidtg_chromatix.xml:system/etc/camera/csidtg_chromatix.xml \
@@ -89,10 +110,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.searchf.so:system/lib/hw/fingerprint.searchf.so \
     vendor/xiaomi/santoni/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.fpc.so:system/lib64//hw/fingerprint.fpc.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.goodix.so:system/lib64//hw/fingerprint.goodix.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.searchf.so:system/lib64//hw/fingerprint.searchf.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/gxfingerprint.default.so:system/lib64//hw/gxfingerprint.default.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.searchf.so:system/lib64/hw/fingerprint.searchf.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
     vendor/xiaomi/santoni/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/santoni/proprietary/lib64/libcom_fingerprints_service.so:system/lib64/libcom_fingerprints_service.so \
     vendor/xiaomi/santoni/proprietary/lib64/libfp_client.so:system/lib64/libfp_client.so \
